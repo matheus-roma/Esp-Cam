@@ -5,7 +5,7 @@
 ### A saída do sistema de aquisição de imagem é em hexadecimal e pode ser convertida com o código em python seno.py
 
 
-### O Hardware utilizado foi um modelo de Esp32-CAM
+### O Hardware utilizado foi um módulo de [Esp32-CAM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjoy9Kq99DwAhXBSzABHdQwB14QFjAAegQIAxAD&url=https%3A%2F%2Floboris.eu%2FESP32%2FESP32-CAM%2520Product%2520Specification.pdf&usg=AOvVaw0SecWk4kFoOd1ghjufgiRx)
 
 #### Vale fazer a observação de que uma versão antiga do framework da espressif foi utilizada na época, uma nova versão pode ser encontrada no repositório da [espressif](https://github.com/espressif/esp-idf). Lá é possível encontrar mais instruções sobre como trabalhar com o ESP-IDF mas estarei colocando aqui também alguns dos links que achei mais úteis da documentação oficial por praticidade:
 
