@@ -1,4 +1,4 @@
-# Foto-Esp (ES422)
+# Foto-Esp
 
 ### Projeto da disciplina de Microcomputadores na UFPE no período de 2019.2. 
 
